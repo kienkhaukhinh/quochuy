@@ -1,0 +1,1237 @@
+E:\cnpm\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\cnpm\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\cnpm\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\cnpm\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\cnpm\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\cnpm\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\cnpm\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\cnpm\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\BUS.dll
+E:\cnpm\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DTO.dll
+E:\cnpm\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DAO.dll
+E:\cnpm\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\BUS.pdb
+E:\cnpm\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DTO.pdb
+E:\cnpm\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DAO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\BUS.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DAO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\BUS.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DAO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\hp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\BUS.dll
+C:\Users\hp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\BUS.pdb
+C:\Users\hp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\hp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\hp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\2\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\cnpm\quanlikho\2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\cnpm\quanlikho\2\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\cnpm\quanlikho\2\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\cnpm\quanlikho\2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\2\WindowsFormsApplication1\bin\Debug\BUS.dll
+E:\cnpm\quanlikho\2\WindowsFormsApplication1\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\2\WindowsFormsApplication1\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\2\WindowsFormsApplication1\bin\Debug\BUS.pdb
+E:\cnpm\quanlikho\2\WindowsFormsApplication1\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\2\WindowsFormsApplication1\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Desktop\2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\hp\Desktop\2\WindowsFormsApplication1\bin\Debug\BUS.dll
+C:\Users\hp\Desktop\2\WindowsFormsApplication1\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\2\WindowsFormsApplication1\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\2\WindowsFormsApplication1\bin\Debug\BUS.pdb
+C:\Users\hp\Desktop\2\WindowsFormsApplication1\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\2\WindowsFormsApplication1\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\hp\Desktop\2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\hp\Desktop\2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Desktop\2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\3\WindowsFormsApplication1\bin\Debug\BUS.dll
+E:\cnpm\quanlikho\3\WindowsFormsApplication1\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\3\WindowsFormsApplication1\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\3\WindowsFormsApplication1\bin\Debug\BUS.pdb
+E:\cnpm\quanlikho\3\WindowsFormsApplication1\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\3\WindowsFormsApplication1\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\3\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\cnpm\quanlikho\3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\cnpm\quanlikho\3\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\cnpm\quanlikho\3\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\cnpm\quanlikho\4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\working\4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\working\4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\working\4\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\cnpm\quanlikho\working\4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\cnpm\quanlikho\working\4\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\cnpm\quanlikho\working\4\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\cnpm\quanlikho\working\4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\working\4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\working\4\WindowsFormsApplication1\bin\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4\WindowsFormsApplication1\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4\WindowsFormsApplication1\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4\WindowsFormsApplication1\bin\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4\WindowsFormsApplication1\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4\WindowsFormsApplication1\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\cnpm\quanlikho\working\4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\hp\Desktop\4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\hp\Desktop\4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Desktop\4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Desktop\4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\hp\Desktop\4\WindowsFormsApplication1\bin\Debug\BUS.dll
+C:\Users\hp\Desktop\4\WindowsFormsApplication1\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\4\WindowsFormsApplication1\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\4\WindowsFormsApplication1\bin\Debug\BUS.pdb
+C:\Users\hp\Desktop\4\WindowsFormsApplication1\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\4\WindowsFormsApplication1\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\hp\Desktop\4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\hp\Desktop\4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\hp\Desktop\4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\working\4.0.1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\cnpm\quanlikho\working\4.0.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\working\4.0.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\working\4.0.1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\working\4.0.1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\working\4.0.1\WindowsFormsApplication1\bin\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4.0.1\WindowsFormsApplication1\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.0.1\WindowsFormsApplication1\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.0.1\WindowsFormsApplication1\bin\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4.0.1\WindowsFormsApplication1\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.0.1\WindowsFormsApplication1\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.0.1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.0.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\cnpm\quanlikho\working\4.0.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\cnpm\quanlikho\working\4.0.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\cnpm\quanlikho\working\4.0.1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\cnpm\quanlikho\working\4.0.1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\cnpm\quanlikho\working\4.0.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\cnpm\quanlikho\working\4.0.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\working\4.0.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\hp\Desktop\4.0.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\hp\Desktop\4.0.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Desktop\4.0.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\hp\Desktop\4.0.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Desktop\4.0.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\hp\Desktop\4.0.2\WindowsFormsApplication1\bin\Debug\BUS.dll
+C:\Users\hp\Desktop\4.0.2\WindowsFormsApplication1\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\4.0.2\WindowsFormsApplication1\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\4.0.2\WindowsFormsApplication1\bin\Debug\BUS.pdb
+C:\Users\hp\Desktop\4.0.2\WindowsFormsApplication1\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\4.0.2\WindowsFormsApplication1\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\4.0.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\4.0.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\hp\Desktop\4.0.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\hp\Desktop\4.0.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\hp\Desktop\4.0.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.0.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.0.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.0.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.0.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.0.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.0.2\WindowsFormsApplication1\bin\Debug\BUS.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.0.2\WindowsFormsApplication1\bin\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.0.2\WindowsFormsApplication1\bin\Debug\DAO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.0.2\WindowsFormsApplication1\bin\Debug\BUS.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.0.2\WindowsFormsApplication1\bin\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.0.2\WindowsFormsApplication1\bin\Debug\DAO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.0.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.0.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.0.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.0.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.0.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\4.0.2.1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\hp\Desktop\4.0.2.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Desktop\4.0.2.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\hp\Desktop\4.0.2.1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Desktop\4.0.2.1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\hp\Desktop\4.0.2.1\WindowsFormsApplication1\bin\Debug\BUS.dll
+C:\Users\hp\Desktop\4.0.2.1\WindowsFormsApplication1\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\4.0.2.1\WindowsFormsApplication1\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\4.0.2.1\WindowsFormsApplication1\bin\Debug\BUS.pdb
+C:\Users\hp\Desktop\4.0.2.1\WindowsFormsApplication1\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\4.0.2.1\WindowsFormsApplication1\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\4.0.2.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\4.0.2.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\hp\Desktop\4.0.2.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\hp\Desktop\4.0.2.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\hp\Desktop\4.0.2.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\WindowsFormsApplication1\bin\Debug\BUS.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\WindowsFormsApplication1\bin\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\WindowsFormsApplication1\bin\Debug\DAO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\WindowsFormsApplication1\bin\Debug\BUS.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\WindowsFormsApplication1\bin\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\WindowsFormsApplication1\bin\Debug\DAO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên - Copy\WindowsFormsApplication1\bin\Debug\BUS.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên - Copy\WindowsFormsApplication1\bin\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên - Copy\WindowsFormsApplication1\bin\Debug\DAO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên - Copy\WindowsFormsApplication1\bin\Debug\BUS.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên - Copy\WindowsFormsApplication1\bin\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên - Copy\WindowsFormsApplication1\bin\Debug\DAO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\hp\Desktop\nhân viên - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\hp\Desktop\nhân viên - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Desktop\nhân viên - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\hp\Desktop\nhân viên - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Desktop\nhân viên - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\hp\Desktop\nhân viên - Copy\WindowsFormsApplication1\bin\Debug\BUS.dll
+C:\Users\hp\Desktop\nhân viên - Copy\WindowsFormsApplication1\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\nhân viên - Copy\WindowsFormsApplication1\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\nhân viên - Copy\WindowsFormsApplication1\bin\Debug\BUS.pdb
+C:\Users\hp\Desktop\nhân viên - Copy\WindowsFormsApplication1\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\nhân viên - Copy\WindowsFormsApplication1\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\nhân viên - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\nhân viên - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\hp\Desktop\nhân viên - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\hp\Desktop\nhân viên - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\hp\Desktop\nhân viên - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.3\4.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.3\4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.3\4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.3\4.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.3\4.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.3\4.3\WindowsFormsApplication1\bin\Debug\BUS.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.3\4.3\WindowsFormsApplication1\bin\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.3\4.3\WindowsFormsApplication1\bin\Debug\DAO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.3\4.3\WindowsFormsApplication1\bin\Debug\BUS.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.3\4.3\WindowsFormsApplication1\bin\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.3\4.3\WindowsFormsApplication1\bin\Debug\DAO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.3\4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.3\4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.3\4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.3\4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.3\4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\4.3\4.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\hp\Desktop\4.3\4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Desktop\4.3\4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\hp\Desktop\4.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\hp\Desktop\4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Desktop\4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\hp\Desktop\4.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Desktop\4.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\hp\Desktop\4.3\WindowsFormsApplication1\bin\Debug\BUS.dll
+C:\Users\hp\Desktop\4.3\WindowsFormsApplication1\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\4.3\WindowsFormsApplication1\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\4.3\WindowsFormsApplication1\bin\Debug\BUS.pdb
+C:\Users\hp\Desktop\4.3\WindowsFormsApplication1\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\4.3\WindowsFormsApplication1\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\hp\Desktop\4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\hp\Desktop\4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\hp\Desktop\4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\cnpm\quanlikho\working\4.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\cnpm\quanlikho\working\4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\working\4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\working\4.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\working\4.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\working\4.3\WindowsFormsApplication1\bin\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4.3\WindowsFormsApplication1\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.3\WindowsFormsApplication1\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.3\WindowsFormsApplication1\bin\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4.3\WindowsFormsApplication1\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.3\WindowsFormsApplication1\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.3\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\cnpm\quanlikho\working\4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\cnpm\quanlikho\working\4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\cnpm\quanlikho\working\4.3\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\cnpm\quanlikho\working\4.3\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\cnpm\quanlikho\working\4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachphieunhaphangview.resources
+E:\cnpm\quanlikho\working\4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.login.resources
+E:\cnpm\quanlikho\working\4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.themsanphamview.resources
+E:\cnpm\quanlikho\working\4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.commoncontrol.resources
+E:\cnpm\quanlikho\working\4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.loaiview.resources
+E:\cnpm\quanlikho\working\4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhacungcapview.resources
+E:\cnpm\quanlikho\working\4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachsanphamview.resources
+E:\cnpm\quanlikho\working\4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhanvienview.resources
+E:\cnpm\quanlikho\working\4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.taophieunhaphangview.resources
+E:\cnpm\quanlikho\working\4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.xuatkhoview.resources
+C:\Users\hp\Desktop\4.4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\hp\Desktop\4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Desktop\4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\hp\Desktop\4.4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Desktop\4.4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\hp\Desktop\4.4\WindowsFormsApplication1\bin\Debug\BUS.dll
+C:\Users\hp\Desktop\4.4\WindowsFormsApplication1\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\4.4\WindowsFormsApplication1\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\4.4\WindowsFormsApplication1\bin\Debug\BUS.pdb
+C:\Users\hp\Desktop\4.4\WindowsFormsApplication1\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\4.4\WindowsFormsApplication1\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\hp\Desktop\4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\hp\Desktop\4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\hp\Desktop\4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachphieunhaphangview.resources
+C:\Users\hp\Desktop\4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachsanphamview.resources
+C:\Users\hp\Desktop\4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.login.resources
+C:\Users\hp\Desktop\4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhanvienview.resources
+C:\Users\hp\Desktop\4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.taophieunhaphangview.resources
+C:\Users\hp\Desktop\4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.themsanphamview.resources
+C:\Users\hp\Desktop\4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.commoncontrol.resources
+C:\Users\hp\Desktop\4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.loaiview.resources
+C:\Users\hp\Desktop\4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhacungcapview.resources
+C:\Users\hp\Desktop\4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.xuatkhoview.resources
+C:\Users\hp\Desktop\4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\WindowsFormsApplication1\bin\Debug\BUS.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\WindowsFormsApplication1\bin\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\WindowsFormsApplication1\bin\Debug\DAO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\WindowsFormsApplication1\bin\Debug\BUS.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\WindowsFormsApplication1\bin\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\WindowsFormsApplication1\bin\Debug\DAO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachphieunhaphangview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachsanphamview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.login.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhanvienview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.taophieunhaphangview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.themsanphamview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.commoncontrol.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.loaiview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhacungcapview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.xuatkhoview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+E:\cnpm\quanlikho\working\4.4.1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\cnpm\quanlikho\working\4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\working\4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\working\4.4.1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\working\4.4.1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\working\4.4.1\WindowsFormsApplication1\bin\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4.4.1\WindowsFormsApplication1\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.4.1\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+E:\cnpm\quanlikho\working\4.4.1\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+E:\cnpm\quanlikho\working\4.4.1\WindowsFormsApplication1\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.4.1\WindowsFormsApplication1\bin\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4.4.1\WindowsFormsApplication1\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.4.1\WindowsFormsApplication1\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.4.1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\cnpm\quanlikho\working\4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\cnpm\quanlikho\working\4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\cnpm\quanlikho\working\4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachphieunhaphangview.resources
+E:\cnpm\quanlikho\working\4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachsanphamview.resources
+E:\cnpm\quanlikho\working\4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.login.resources
+E:\cnpm\quanlikho\working\4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhanvienview.resources
+E:\cnpm\quanlikho\working\4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.taophieunhaphangview.resources
+E:\cnpm\quanlikho\working\4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.themsanphamview.resources
+E:\cnpm\quanlikho\working\4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.commoncontrol.resources
+E:\cnpm\quanlikho\working\4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.loaiview.resources
+E:\cnpm\quanlikho\working\4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhacungcapview.resources
+E:\cnpm\quanlikho\working\4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.xuatkhoview.resources
+E:\cnpm\quanlikho\working\4.4.1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\cnpm\quanlikho\working\4.4.1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\WindowsFormsApplication1\bin\Debug\BUS.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\WindowsFormsApplication1\bin\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\WindowsFormsApplication1\bin\Debug\DAO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\WindowsFormsApplication1\bin\Debug\BUS.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\WindowsFormsApplication1\bin\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\WindowsFormsApplication1\bin\Debug\DAO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachphieunhaphangview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachsanphamview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.login.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhanvienview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.taophieunhaphangview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.themsanphamview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.commoncontrol.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.loaiview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhacungcapview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.xuatkhoview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\cnpm\quanlikho\working\4.4.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\cnpm\quanlikho\working\4.4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\working\4.4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\working\4.4.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\working\4.4.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\working\4.4.3\WindowsFormsApplication1\bin\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4.4.3\WindowsFormsApplication1\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.4.3\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+E:\cnpm\quanlikho\working\4.4.3\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+E:\cnpm\quanlikho\working\4.4.3\WindowsFormsApplication1\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.4.3\WindowsFormsApplication1\bin\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4.4.3\WindowsFormsApplication1\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.4.3\WindowsFormsApplication1\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.4.3\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\cnpm\quanlikho\working\4.4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\cnpm\quanlikho\working\4.4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\cnpm\quanlikho\working\4.4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachphieunhaphangview.resources
+E:\cnpm\quanlikho\working\4.4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachsanphamview.resources
+E:\cnpm\quanlikho\working\4.4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.login.resources
+E:\cnpm\quanlikho\working\4.4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhanvienview.resources
+E:\cnpm\quanlikho\working\4.4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.taophieunhaphangview.resources
+E:\cnpm\quanlikho\working\4.4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.themsanphamview.resources
+E:\cnpm\quanlikho\working\4.4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.commoncontrol.resources
+E:\cnpm\quanlikho\working\4.4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.loaiview.resources
+E:\cnpm\quanlikho\working\4.4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhacungcapview.resources
+E:\cnpm\quanlikho\working\4.4.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.xuatkhoview.resources
+E:\cnpm\quanlikho\working\4.4.3\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\cnpm\quanlikho\working\4.4.3\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\hp\Desktop\4.4.3.1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\hp\Desktop\4.4.3.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Desktop\4.4.3.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\hp\Desktop\4.4.3.1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Desktop\4.4.3.1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\hp\Desktop\4.4.3.1\WindowsFormsApplication1\bin\Debug\BUS.dll
+C:\Users\hp\Desktop\4.4.3.1\WindowsFormsApplication1\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\4.4.3.1\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+C:\Users\hp\Desktop\4.4.3.1\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hp\Desktop\4.4.3.1\WindowsFormsApplication1\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\4.4.3.1\WindowsFormsApplication1\bin\Debug\BUS.pdb
+C:\Users\hp\Desktop\4.4.3.1\WindowsFormsApplication1\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\4.4.3.1\WindowsFormsApplication1\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\4.4.3.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\4.4.3.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\hp\Desktop\4.4.3.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\hp\Desktop\4.4.3.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\hp\Desktop\4.4.3.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachphieunhaphangview.resources
+C:\Users\hp\Desktop\4.4.3.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachsanphamview.resources
+C:\Users\hp\Desktop\4.4.3.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.login.resources
+C:\Users\hp\Desktop\4.4.3.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhanvienview.resources
+C:\Users\hp\Desktop\4.4.3.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.taophieunhaphangview.resources
+C:\Users\hp\Desktop\4.4.3.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.themsanphamview.resources
+C:\Users\hp\Desktop\4.4.3.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.commoncontrol.resources
+C:\Users\hp\Desktop\4.4.3.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.loaiview.resources
+C:\Users\hp\Desktop\4.4.3.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhacungcapview.resources
+C:\Users\hp\Desktop\4.4.3.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.xuatkhoview.resources
+C:\Users\hp\Desktop\4.4.3.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\cnpm\quanlikho\working\4.4.3.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\cnpm\quanlikho\working\4.4.3.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\working\4.4.3.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\working\4.4.3.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\working\4.4.3.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\working\4.4.3.2\WindowsFormsApplication1\bin\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4.4.3.2\WindowsFormsApplication1\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.4.3.2\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+E:\cnpm\quanlikho\working\4.4.3.2\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+E:\cnpm\quanlikho\working\4.4.3.2\WindowsFormsApplication1\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.4.3.2\WindowsFormsApplication1\bin\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4.4.3.2\WindowsFormsApplication1\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.4.3.2\WindowsFormsApplication1\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.4.3.2\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.4.3.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\cnpm\quanlikho\working\4.4.3.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\cnpm\quanlikho\working\4.4.3.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\cnpm\quanlikho\working\4.4.3.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachphieunhaphangview.resources
+E:\cnpm\quanlikho\working\4.4.3.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachsanphamview.resources
+E:\cnpm\quanlikho\working\4.4.3.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.login.resources
+E:\cnpm\quanlikho\working\4.4.3.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhanvienview.resources
+E:\cnpm\quanlikho\working\4.4.3.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.taophieunhaphangview.resources
+E:\cnpm\quanlikho\working\4.4.3.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.themsanphamview.resources
+E:\cnpm\quanlikho\working\4.4.3.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.commoncontrol.resources
+E:\cnpm\quanlikho\working\4.4.3.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.loaiview.resources
+E:\cnpm\quanlikho\working\4.4.3.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhacungcapview.resources
+E:\cnpm\quanlikho\working\4.4.3.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.xuatkhoview.resources
+E:\cnpm\quanlikho\working\4.4.3.2\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\cnpm\quanlikho\working\4.4.3.2\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\cnpm\quanlikho\working\4.4.3.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachtonkhoview.resources
+E:\cnpm\quanlikho\working\4.4.3.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.thongkexuatkhoview.resources
+C:\Users\hp\Desktop\4.4.3.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\hp\Desktop\4.4.3.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Desktop\4.4.3.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\hp\Desktop\4.4.3.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Desktop\4.4.3.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\hp\Desktop\4.4.3.3\WindowsFormsApplication1\bin\Debug\BUS.dll
+C:\Users\hp\Desktop\4.4.3.3\WindowsFormsApplication1\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\4.4.3.3\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+C:\Users\hp\Desktop\4.4.3.3\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hp\Desktop\4.4.3.3\WindowsFormsApplication1\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\4.4.3.3\WindowsFormsApplication1\bin\Debug\BUS.pdb
+C:\Users\hp\Desktop\4.4.3.3\WindowsFormsApplication1\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\4.4.3.3\WindowsFormsApplication1\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\4.4.3.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\4.4.3.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\hp\Desktop\4.4.3.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\hp\Desktop\4.4.3.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\hp\Desktop\4.4.3.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.thongkexuatkhoview.resources
+C:\Users\hp\Desktop\4.4.3.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachphieunhaphangview.resources
+C:\Users\hp\Desktop\4.4.3.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachsanphamview.resources
+C:\Users\hp\Desktop\4.4.3.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachtonkhoview.resources
+C:\Users\hp\Desktop\4.4.3.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.login.resources
+C:\Users\hp\Desktop\4.4.3.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhanvienview.resources
+C:\Users\hp\Desktop\4.4.3.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.taophieunhaphangview.resources
+C:\Users\hp\Desktop\4.4.3.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.themsanphamview.resources
+C:\Users\hp\Desktop\4.4.3.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.commoncontrol.resources
+C:\Users\hp\Desktop\4.4.3.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.loaiview.resources
+C:\Users\hp\Desktop\4.4.3.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhacungcapview.resources
+C:\Users\hp\Desktop\4.4.3.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.xuatkhoview.resources
+C:\Users\hp\Desktop\4.4.3.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\cnpm\quanlikho\working\4.4.3.4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\cnpm\quanlikho\working\4.4.3.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\working\4.4.3.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\working\4.4.3.4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\working\4.4.3.4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\working\4.4.3.4\WindowsFormsApplication1\bin\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4.4.3.4\WindowsFormsApplication1\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.4.3.4\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+E:\cnpm\quanlikho\working\4.4.3.4\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+E:\cnpm\quanlikho\working\4.4.3.4\WindowsFormsApplication1\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.4.3.4\WindowsFormsApplication1\bin\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4.4.3.4\WindowsFormsApplication1\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.4.3.4\WindowsFormsApplication1\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.4.3.4\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.4.3.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\cnpm\quanlikho\working\4.4.3.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\cnpm\quanlikho\working\4.4.3.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\cnpm\quanlikho\working\4.4.3.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.thongkexuatkhoview.resources
+E:\cnpm\quanlikho\working\4.4.3.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachphieunhaphangview.resources
+E:\cnpm\quanlikho\working\4.4.3.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachsanphamview.resources
+E:\cnpm\quanlikho\working\4.4.3.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachtonkhoview.resources
+E:\cnpm\quanlikho\working\4.4.3.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.login.resources
+E:\cnpm\quanlikho\working\4.4.3.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhanvienview.resources
+E:\cnpm\quanlikho\working\4.4.3.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.taophieunhaphangview.resources
+E:\cnpm\quanlikho\working\4.4.3.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.themsanphamview.resources
+E:\cnpm\quanlikho\working\4.4.3.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.commoncontrol.resources
+E:\cnpm\quanlikho\working\4.4.3.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.loaiview.resources
+E:\cnpm\quanlikho\working\4.4.3.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhacungcapview.resources
+E:\cnpm\quanlikho\working\4.4.3.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.xuatkhoview.resources
+E:\cnpm\quanlikho\working\4.4.3.4\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\cnpm\quanlikho\working\4.4.3.4\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\WindowsFormsApplication1\bin\Debug\BUS.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\WindowsFormsApplication1\bin\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\WindowsFormsApplication1\bin\Debug\DAO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\WindowsFormsApplication1\bin\Debug\BUS.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\WindowsFormsApplication1\bin\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\WindowsFormsApplication1\bin\Debug\DAO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.thongkexuatkhoview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachphieunhaphangview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachsanphamview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachtonkhoview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.login.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhanvienview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.taophieunhaphangview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.themsanphamview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.commoncontrol.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.loaiview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhacungcapview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.xuatkhoview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\cnpm\quanlikho\working\4.4.3.6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\cnpm\quanlikho\working\4.4.3.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\working\4.4.3.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\working\4.4.3.6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\working\4.4.3.6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\working\4.4.3.6\WindowsFormsApplication1\bin\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4.4.3.6\WindowsFormsApplication1\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.4.3.6\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+E:\cnpm\quanlikho\working\4.4.3.6\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+E:\cnpm\quanlikho\working\4.4.3.6\WindowsFormsApplication1\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.4.3.6\WindowsFormsApplication1\bin\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4.4.3.6\WindowsFormsApplication1\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.4.3.6\WindowsFormsApplication1\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.4.3.6\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.4.3.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\cnpm\quanlikho\working\4.4.3.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\cnpm\quanlikho\working\4.4.3.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\cnpm\quanlikho\working\4.4.3.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.thongkexuatkhoview.resources
+E:\cnpm\quanlikho\working\4.4.3.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachphieunhaphangview.resources
+E:\cnpm\quanlikho\working\4.4.3.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachsanphamview.resources
+E:\cnpm\quanlikho\working\4.4.3.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachtonkhoview.resources
+E:\cnpm\quanlikho\working\4.4.3.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.login.resources
+E:\cnpm\quanlikho\working\4.4.3.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhanvienview.resources
+E:\cnpm\quanlikho\working\4.4.3.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.taophieunhaphangview.resources
+E:\cnpm\quanlikho\working\4.4.3.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.themsanphamview.resources
+E:\cnpm\quanlikho\working\4.4.3.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.loaiview.resources
+E:\cnpm\quanlikho\working\4.4.3.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhacungcapview.resources
+E:\cnpm\quanlikho\working\4.4.3.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.xuatkhoview.resources
+E:\cnpm\quanlikho\working\4.4.3.6\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\cnpm\quanlikho\working\4.4.3.6\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\cnpm\quanlikho\working\4.4.3.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\cnpm\quanlikho\working\4.4.3.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.chartview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.7\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.7\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.7\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.7\WindowsFormsApplication1\bin\Debug\BUS.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.7\WindowsFormsApplication1\bin\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.7\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.7\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.7\WindowsFormsApplication1\bin\Debug\DAO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.7\WindowsFormsApplication1\bin\Debug\BUS.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.7\WindowsFormsApplication1\bin\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.7\WindowsFormsApplication1\bin\Debug\DAO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.chartview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.thongkexuatkhoview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachphieunhaphangview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachsanphamview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachtonkhoview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.login.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhanvienview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.taophieunhaphangview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.themsanphamview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.loaiview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhacungcapview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.xuatkhoview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\4.4.3.8\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\hp\Desktop\4.4.3.8\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\hp\Desktop\4.4.3.8\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Desktop\4.4.3.8\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\hp\Desktop\4.4.3.8\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Desktop\4.4.3.8\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\hp\Desktop\4.4.3.8\WindowsFormsApplication1\bin\Debug\BUS.dll
+C:\Users\hp\Desktop\4.4.3.8\WindowsFormsApplication1\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\4.4.3.8\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+C:\Users\hp\Desktop\4.4.3.8\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hp\Desktop\4.4.3.8\WindowsFormsApplication1\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\4.4.3.8\WindowsFormsApplication1\bin\Debug\BUS.pdb
+C:\Users\hp\Desktop\4.4.3.8\WindowsFormsApplication1\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\4.4.3.8\WindowsFormsApplication1\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\4.4.3.8\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\4.4.3.8\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\hp\Desktop\4.4.3.8\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\hp\Desktop\4.4.3.8\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\hp\Desktop\4.4.3.8\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.chartview.resources
+C:\Users\hp\Desktop\4.4.3.8\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.thongkexuatkhoview.resources
+C:\Users\hp\Desktop\4.4.3.8\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachphieunhaphangview.resources
+C:\Users\hp\Desktop\4.4.3.8\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachsanphamview.resources
+C:\Users\hp\Desktop\4.4.3.8\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachtonkhoview.resources
+C:\Users\hp\Desktop\4.4.3.8\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.login.resources
+C:\Users\hp\Desktop\4.4.3.8\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhanvienview.resources
+C:\Users\hp\Desktop\4.4.3.8\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.taophieunhaphangview.resources
+C:\Users\hp\Desktop\4.4.3.8\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.themsanphamview.resources
+C:\Users\hp\Desktop\4.4.3.8\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.loaiview.resources
+C:\Users\hp\Desktop\4.4.3.8\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhacungcapview.resources
+C:\Users\hp\Desktop\4.4.3.8\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.xuatkhoview.resources
+C:\Users\hp\Desktop\4.4.3.8\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\hp\Desktop\4\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+C:\Users\hp\Desktop\4\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hp\Desktop\4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.chartview.resources
+C:\Users\hp\Desktop\4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.thongkexuatkhoview.resources
+C:\Users\hp\Desktop\4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachphieunhaphangview.resources
+C:\Users\hp\Desktop\4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachsanphamview.resources
+C:\Users\hp\Desktop\4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachtonkhoview.resources
+C:\Users\hp\Desktop\4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.login.resources
+C:\Users\hp\Desktop\4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhanvienview.resources
+C:\Users\hp\Desktop\4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.taophieunhaphangview.resources
+C:\Users\hp\Desktop\4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.themsanphamview.resources
+C:\Users\hp\Desktop\4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.loaiview.resources
+C:\Users\hp\Desktop\4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhacungcapview.resources
+C:\Users\hp\Desktop\4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.xuatkhoview.resources
+E:\cnpm\quanlikho\working\4.4.3.9\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\cnpm\quanlikho\working\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\cnpm\quanlikho\working\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\working\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\working\4.4.3.9\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\working\4.4.3.9\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\working\4.4.3.9\WindowsFormsApplication1\bin\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4.4.3.9\WindowsFormsApplication1\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.4.3.9\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+E:\cnpm\quanlikho\working\4.4.3.9\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+E:\cnpm\quanlikho\working\4.4.3.9\WindowsFormsApplication1\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.4.3.9\WindowsFormsApplication1\bin\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4.4.3.9\WindowsFormsApplication1\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.4.3.9\WindowsFormsApplication1\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\cnpm\quanlikho\working\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\cnpm\quanlikho\working\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\cnpm\quanlikho\working\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.chartview.resources
+E:\cnpm\quanlikho\working\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.thongkexuatkhoview.resources
+E:\cnpm\quanlikho\working\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachphieunhaphangview.resources
+E:\cnpm\quanlikho\working\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachsanphamview.resources
+E:\cnpm\quanlikho\working\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachtonkhoview.resources
+E:\cnpm\quanlikho\working\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.login.resources
+E:\cnpm\quanlikho\working\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhanvienview.resources
+E:\cnpm\quanlikho\working\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.taophieunhaphangview.resources
+E:\cnpm\quanlikho\working\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.themsanphamview.resources
+E:\cnpm\quanlikho\working\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.loaiview.resources
+E:\cnpm\quanlikho\working\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhacungcapview.resources
+E:\cnpm\quanlikho\working\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.xuatkhoview.resources
+E:\cnpm\quanlikho\working\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\cnpm\quanlikho\working\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\hp\Desktop\4.4.3.9\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\hp\Desktop\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\hp\Desktop\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Desktop\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\hp\Desktop\4.4.3.9\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Desktop\4.4.3.9\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\hp\Desktop\4.4.3.9\WindowsFormsApplication1\bin\Debug\BUS.dll
+C:\Users\hp\Desktop\4.4.3.9\WindowsFormsApplication1\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\4.4.3.9\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+C:\Users\hp\Desktop\4.4.3.9\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hp\Desktop\4.4.3.9\WindowsFormsApplication1\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\4.4.3.9\WindowsFormsApplication1\bin\Debug\BUS.pdb
+C:\Users\hp\Desktop\4.4.3.9\WindowsFormsApplication1\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\4.4.3.9\WindowsFormsApplication1\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\hp\Desktop\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\hp\Desktop\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\hp\Desktop\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.chartview.resources
+C:\Users\hp\Desktop\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.thongkexuatkhoview.resources
+C:\Users\hp\Desktop\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachphieunhaphangview.resources
+C:\Users\hp\Desktop\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachsanphamview.resources
+C:\Users\hp\Desktop\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachtonkhoview.resources
+C:\Users\hp\Desktop\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.login.resources
+C:\Users\hp\Desktop\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhanvienview.resources
+C:\Users\hp\Desktop\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.taophieunhaphangview.resources
+C:\Users\hp\Desktop\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.themsanphamview.resources
+C:\Users\hp\Desktop\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.loaiview.resources
+C:\Users\hp\Desktop\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhacungcapview.resources
+C:\Users\hp\Desktop\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.xuatkhoview.resources
+C:\Users\hp\Desktop\4.4.3.9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\4.4.4.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\hp\Desktop\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\hp\Desktop\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Desktop\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\hp\Desktop\4.4.4.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Desktop\4.4.4.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\hp\Desktop\4.4.4.0\WindowsFormsApplication1\bin\Debug\BUS.dll
+C:\Users\hp\Desktop\4.4.4.0\WindowsFormsApplication1\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\4.4.4.0\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+C:\Users\hp\Desktop\4.4.4.0\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hp\Desktop\4.4.4.0\WindowsFormsApplication1\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\4.4.4.0\WindowsFormsApplication1\bin\Debug\BUS.pdb
+C:\Users\hp\Desktop\4.4.4.0\WindowsFormsApplication1\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\4.4.4.0\WindowsFormsApplication1\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\hp\Desktop\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\hp\Desktop\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\hp\Desktop\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.chartview.resources
+C:\Users\hp\Desktop\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.thongkexuatkhoview.resources
+C:\Users\hp\Desktop\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachphieunhaphangview.resources
+C:\Users\hp\Desktop\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachsanphamview.resources
+C:\Users\hp\Desktop\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachtonkhoview.resources
+C:\Users\hp\Desktop\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.login.resources
+C:\Users\hp\Desktop\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhanvienview.resources
+C:\Users\hp\Desktop\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.taophieunhaphangview.resources
+C:\Users\hp\Desktop\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.themsanphamview.resources
+C:\Users\hp\Desktop\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.loaiview.resources
+C:\Users\hp\Desktop\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhacungcapview.resources
+C:\Users\hp\Desktop\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.xuatkhoview.resources
+C:\Users\hp\Desktop\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\cnpm\quanlikho\working\4.4.4.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\cnpm\quanlikho\working\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\cnpm\quanlikho\working\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\working\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\working\4.4.4.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\working\4.4.4.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\working\4.4.4.0\WindowsFormsApplication1\bin\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4.4.4.0\WindowsFormsApplication1\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.4.4.0\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+E:\cnpm\quanlikho\working\4.4.4.0\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+E:\cnpm\quanlikho\working\4.4.4.0\WindowsFormsApplication1\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.4.4.0\WindowsFormsApplication1\bin\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4.4.4.0\WindowsFormsApplication1\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.4.4.0\WindowsFormsApplication1\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\cnpm\quanlikho\working\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\cnpm\quanlikho\working\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\cnpm\quanlikho\working\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.chartview.resources
+E:\cnpm\quanlikho\working\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.thongkexuatkhoview.resources
+E:\cnpm\quanlikho\working\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachphieunhaphangview.resources
+E:\cnpm\quanlikho\working\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachsanphamview.resources
+E:\cnpm\quanlikho\working\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachtonkhoview.resources
+E:\cnpm\quanlikho\working\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.login.resources
+E:\cnpm\quanlikho\working\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhanvienview.resources
+E:\cnpm\quanlikho\working\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.taophieunhaphangview.resources
+E:\cnpm\quanlikho\working\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.themsanphamview.resources
+E:\cnpm\quanlikho\working\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.loaiview.resources
+E:\cnpm\quanlikho\working\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhacungcapview.resources
+E:\cnpm\quanlikho\working\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.xuatkhoview.resources
+E:\cnpm\quanlikho\working\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\cnpm\quanlikho\working\4.4.4.0\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\cnpm\quanlikho\working\4.4.4.1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\cnpm\quanlikho\working\4.4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\cnpm\quanlikho\working\4.4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\working\4.4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\working\4.4.4.1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\working\4.4.4.1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\working\4.4.4.1\WindowsFormsApplication1\bin\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4.4.4.1\WindowsFormsApplication1\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.4.4.1\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+E:\cnpm\quanlikho\working\4.4.4.1\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+E:\cnpm\quanlikho\working\4.4.4.1\WindowsFormsApplication1\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.4.4.1\WindowsFormsApplication1\bin\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4.4.4.1\WindowsFormsApplication1\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.4.4.1\WindowsFormsApplication1\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.4.4.1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\cnpm\quanlikho\working\4.4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\cnpm\quanlikho\working\4.4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\cnpm\quanlikho\working\4.4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.chartview.resources
+E:\cnpm\quanlikho\working\4.4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.thongkexuatkhoview.resources
+E:\cnpm\quanlikho\working\4.4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachphieunhaphangview.resources
+E:\cnpm\quanlikho\working\4.4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachsanphamview.resources
+E:\cnpm\quanlikho\working\4.4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachtonkhoview.resources
+E:\cnpm\quanlikho\working\4.4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.login.resources
+E:\cnpm\quanlikho\working\4.4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhanvienview.resources
+E:\cnpm\quanlikho\working\4.4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.taophieunhaphangview.resources
+E:\cnpm\quanlikho\working\4.4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.themsanphamview.resources
+E:\cnpm\quanlikho\working\4.4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.loaiview.resources
+E:\cnpm\quanlikho\working\4.4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhacungcapview.resources
+E:\cnpm\quanlikho\working\4.4.4.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.xuatkhoview.resources
+E:\cnpm\quanlikho\working\4.4.4.1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\cnpm\quanlikho\working\4.4.4.1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\cnpm\quanlikho\working\4.4.4.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\cnpm\quanlikho\working\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\cnpm\quanlikho\working\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\working\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\working\4.4.4.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\working\4.4.4.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\working\4.4.4.2\WindowsFormsApplication1\bin\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4.4.4.2\WindowsFormsApplication1\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.4.4.2\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+E:\cnpm\quanlikho\working\4.4.4.2\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+E:\cnpm\quanlikho\working\4.4.4.2\WindowsFormsApplication1\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.4.4.2\WindowsFormsApplication1\bin\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4.4.4.2\WindowsFormsApplication1\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.4.4.2\WindowsFormsApplication1\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\cnpm\quanlikho\working\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\cnpm\quanlikho\working\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\cnpm\quanlikho\working\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.chartview.resources
+E:\cnpm\quanlikho\working\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.thongkexuatkhoview.resources
+E:\cnpm\quanlikho\working\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachphieunhaphangview.resources
+E:\cnpm\quanlikho\working\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachsanphamview.resources
+E:\cnpm\quanlikho\working\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachtonkhoview.resources
+E:\cnpm\quanlikho\working\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.login.resources
+E:\cnpm\quanlikho\working\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhanvienview.resources
+E:\cnpm\quanlikho\working\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.taophieunhaphangview.resources
+E:\cnpm\quanlikho\working\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.themsanphamview.resources
+E:\cnpm\quanlikho\working\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.loaiview.resources
+E:\cnpm\quanlikho\working\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhacungcapview.resources
+E:\cnpm\quanlikho\working\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.xuatkhoview.resources
+E:\cnpm\quanlikho\working\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\cnpm\quanlikho\working\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\WindowsFormsApplication1\bin\Debug\BUS.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\WindowsFormsApplication1\bin\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\WindowsFormsApplication1\bin\Debug\DAO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\WindowsFormsApplication1\bin\Debug\BUS.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\WindowsFormsApplication1\bin\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\WindowsFormsApplication1\bin\Debug\DAO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.chartview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.thongkexuatkhoview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachphieunhaphangview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachsanphamview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachtonkhoview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.login.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhanvienview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.taophieunhaphangview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.themsanphamview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.loaiview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhacungcapview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.xuatkhoview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\cnpm\quanlikho\working\4.4.4.4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\cnpm\quanlikho\working\4.4.4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\cnpm\quanlikho\working\4.4.4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\working\4.4.4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\hp\Desktop\4.4.4.4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\hp\Desktop\4.4.4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\hp\Desktop\4.4.4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Desktop\4.4.4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\hp\Desktop\4.4.4.4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Desktop\4.4.4.4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\hp\Desktop\4.4.4.4\WindowsFormsApplication1\bin\Debug\BUS.dll
+C:\Users\hp\Desktop\4.4.4.4\WindowsFormsApplication1\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\4.4.4.4\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+C:\Users\hp\Desktop\4.4.4.4\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hp\Desktop\4.4.4.4\WindowsFormsApplication1\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\4.4.4.4\WindowsFormsApplication1\bin\Debug\BUS.pdb
+C:\Users\hp\Desktop\4.4.4.4\WindowsFormsApplication1\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\4.4.4.4\WindowsFormsApplication1\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\4.4.4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\4.4.4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\hp\Desktop\4.4.4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\hp\Desktop\4.4.4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\hp\Desktop\4.4.4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.chartview.resources
+C:\Users\hp\Desktop\4.4.4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.thongkexuatkhoview.resources
+C:\Users\hp\Desktop\4.4.4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachphieunhaphangview.resources
+C:\Users\hp\Desktop\4.4.4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachsanphamview.resources
+C:\Users\hp\Desktop\4.4.4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachtonkhoview.resources
+C:\Users\hp\Desktop\4.4.4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.login.resources
+C:\Users\hp\Desktop\4.4.4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhanvienview.resources
+C:\Users\hp\Desktop\4.4.4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.taophieunhaphangview.resources
+C:\Users\hp\Desktop\4.4.4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.themsanphamview.resources
+C:\Users\hp\Desktop\4.4.4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.loaiview.resources
+C:\Users\hp\Desktop\4.4.4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhacungcapview.resources
+C:\Users\hp\Desktop\4.4.4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.xuatkhoview.resources
+C:\Users\hp\Desktop\4.4.4.4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\WindowsFormsApplication1\bin\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\WindowsFormsApplication1\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\WindowsFormsApplication1\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\WindowsFormsApplication1\bin\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\WindowsFormsApplication1\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\WindowsFormsApplication1\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.chartview.resources
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.thongkexuatkhoview.resources
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachphieunhaphangview.resources
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachsanphamview.resources
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachtonkhoview.resources
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.login.resources
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhanvienview.resources
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.taophieunhaphangview.resources
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.themsanphamview.resources
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.loaiview.resources
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhacungcapview.resources
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.xuatkhoview.resources
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.5\WindowsFormsApplication1\bin\Debug\BUS.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.5\WindowsFormsApplication1\bin\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.5\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.5\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.5\WindowsFormsApplication1\bin\Debug\DAO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.5\WindowsFormsApplication1\bin\Debug\BUS.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.5\WindowsFormsApplication1\bin\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.5\WindowsFormsApplication1\bin\Debug\DAO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.chartview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.thongkexuatkhoview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachphieunhaphangview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachsanphamview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.danhsachtonkhoview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.login.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhanvienview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.taophieunhaphangview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.themsanphamview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.loaiview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhacungcapview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.xuatkhoview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\VU\Documents\Visual Studio 2012\Projects\4.4.4.5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\VU\Documents\Visual Studio 2012\Projects\4.4.4.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\VU\Documents\Visual Studio 2012\Projects\4.4.4.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\VU\Documents\Visual Studio 2012\Projects\4.4.4.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\VU\Documents\Visual Studio 2012\Projects\4.4.4.5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\VU\Documents\Visual Studio 2012\Projects\4.4.4.5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\VU\Documents\Visual Studio 2012\Projects\4.4.4.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\VU\Documents\Visual Studio 2012\Projects\4.4.4.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\4.4.4.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\4.4.4.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.login.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\4.4.4.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhanvienview.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\4.4.4.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhacungcapview.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\4.4.4.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\VU\Documents\Visual Studio 2012\Projects\4.4.4.5\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\Users\VU\Documents\Visual Studio 2012\Projects\4.4.4.5\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VU\Documents\Visual Studio 2012\Projects\4.4.4.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.khachhangview.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\4.4.4.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.sanphamview.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\4.4.4.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.taodondathangview.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\4.4.4.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.thongkeview.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\4.4.4.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.dathangview.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\4.4.4.5\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\Users\VU\Documents\Visual Studio 2012\Projects\4.4.4.5\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VU\Documents\Visual Studio 2012\Projects\4.4.4.5\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+C:\Users\VU\Documents\Visual Studio 2012\Projects\4.4.4.5\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\VU\Documents\Visual Studio 2012\Projects\4.4.4.5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhaphangview.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\4.4.4.5\WindowsFormsApplication1\bin\Debug\Model.dll
+C:\Users\VU\Documents\Visual Studio 2012\Projects\4.4.4.5\WindowsFormsApplication1\bin\Debug\Model.pdb
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.0\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.0\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.0\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.0\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.0\WindowsFormsApplication1\bin\Debug\Model.dll
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.0\WindowsFormsApplication1\bin\Debug\Model.pdb
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.0\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.0\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.dathangview.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.khachhangview.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.login.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhacungcapview.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhanvienview.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhaphangview.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.sanphamview.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.taodondathangview.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.thongkeview.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.0\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.0\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.0\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.0\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.0\WindowsFormsApplication1\bin\Debug\Model.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.0\WindowsFormsApplication1\bin\Debug\Model.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.0\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.0\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.dathangview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.khachhangview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.login.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhacungcapview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhanvienview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhaphangview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.sanphamview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.taodondathangview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.thongkeview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.2\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.2\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.2\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.2\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.2\WindowsFormsApplication1\bin\Debug\Model.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.2\WindowsFormsApplication1\bin\Debug\Model.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.2\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.2\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.dathangview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.khachhangview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.login.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhacungcapview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhanvienview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhaphangview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.sanphamview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.taodondathangview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.thongkeview.resources
+E:\Tai lieu hoc\Tin\CN phan mem\project\qh moi\qh moi\1.1.2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.3\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.3\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.3\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.3\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.3\WindowsFormsApplication1\bin\Debug\Model.dll
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.3\WindowsFormsApplication1\bin\Debug\Model.pdb
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.3\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.3\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.dathangview.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.khachhangview.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.login.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhacungcapview.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhanvienview.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhaphangview.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.sanphamview.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.taodondathangview.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.thongkeview.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.3\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.3\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.3\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.3\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.3\WindowsFormsApplication1\bin\Debug\Model.dll
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.3\WindowsFormsApplication1\bin\Debug\Model.pdb
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.3\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.3\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.dathangview.resources
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.khachhangview.resources
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.login.resources
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhacungcapview.resources
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhanvienview.resources
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhaphangview.resources
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.sanphamview.resources
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.taodondathangview.resources
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.thongkeview.resources
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.3\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.6\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.6\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.6\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.6\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.6\WindowsFormsApplication1\bin\Debug\Model.dll
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.6\WindowsFormsApplication1\bin\Debug\Model.pdb
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.6\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.6\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormMain.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.dathangview.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.khachhangview.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhacungcapview.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhanvienview.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhaphangview.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.sanphamview.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.thongkeview.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.banhangview.resources
+C:\Users\VU\Documents\Visual Studio 2012\Projects\1.1.6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.xuatkhoview.resources
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.7\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.7\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.7\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.7\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.7\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.7\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.7\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.7\WindowsFormsApplication1\bin\Debug\Model.dll
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.7\WindowsFormsApplication1\bin\Debug\Model.pdb
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.7\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.7\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormMain.resources
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.banhangview.resources
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.dathangview.resources
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.khachhangview.resources
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhacungcapview.resources
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhanvienview.resources
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.nhaphangview.resources
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.sanphamview.resources
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.thongkeview.resources
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.View.xuatkhoview.resources
+E:\Tai lieu hoc\Tin\Phan tich thiet ke\Project\1.1.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

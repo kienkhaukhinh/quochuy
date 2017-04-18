@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D0A58DDD-84BA-4131-AD24-70BA322EB7BD}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Model</RootNamespace>
+    <AssemblyName>Model</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BUS\DONDATHANGBUS.cs" />
+    <Compile Include="BUS\HOADONBUS.cs" />
+    <Compile Include="BUS\KHACHHANGBUS.cs" />
+    <Compile Include="BUS\LOAISPBUS.cs" />
+    <Compile Include="BUS\NGUOIDUNGBUS.cs" />
+    <Compile Include="BUS\NHACCBUS.cs" />
+    <Compile Include="BUS\SANPHAMBUS.cs" />
+    <Compile Include="DAO\CTDONHANGDAO.cs" />
+    <Compile Include="DAO\DONDATHANGDAO.cs" />
+    <Compile Include="DAO\GenericDataRepository.cs" />
+    <Compile Include="DAO\HOADONDAO.cs" />
+    <Compile Include="DAO\KHACHHANGDAO.cs" />
+    <Compile Include="DAO\NGUOIDUNGDAO.cs" />
+    <Compile Include="DAO\SANPHAMDAO.cs" />
+    <Compile Include="ENTITY\CT_DONDATHANG.cs" />
+    <Compile Include="ENTITY\CT_HOADON.cs" />
+    <Compile Include="ENTITY\CT_PHIEUXUAT.cs" />
+    <Compile Include="ENTITY\DONDATHANG.cs" />
+    <Compile Include="ENTITY\HOADON.cs" />
+    <Compile Include="ENTITY\KHACHHANGTT.cs" />
+    <Compile Include="ENTITY\LOAISP.cs" />
+    <Compile Include="ENTITY\NGDUNG.cs" />
+    <Compile Include="ENTITY\NHACC.cs" />
+    <Compile Include="ENTITY\PHIEUXUAT.cs" />
+    <Compile Include="ENTITY\SANPHAM.cs" />
+    <Compile Include="ENTITY\TOYDB.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VIEWMODEL\ViewCTDDH.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

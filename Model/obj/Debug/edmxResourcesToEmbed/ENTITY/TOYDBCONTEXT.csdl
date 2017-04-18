@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ToyShopDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CT_DONDATHANG">
+    <Key>
+      <PropertyRef Name="IDDONDAT" />
+      <PropertyRef Name="IDSANPHAM" />
+    </Key>
+    <Property Name="IDDONDAT" Type="Int32" Nullable="false" />
+    <Property Name="IDSANPHAM" Type="Int32" Nullable="false" />
+    <Property Name="SL" Type="Int32" />
+    <Property Name="DONGIA" Type="Decimal" Precision="10" Scale="0" />
+    <Property Name="TONG" Type="Decimal" Precision="10" Scale="0" />
+    <NavigationProperty Name="DONDATHANG" Relationship="Self.FK__CT_DONDAT__IDDON__2B3F6F97" FromRole="CT_DONDATHANG" ToRole="DONDATHANG" />
+    <NavigationProperty Name="SANPHAM" Relationship="Self.FK__CT_DONDAT__IDSAN__2C3393D0" FromRole="CT_DONDATHANG" ToRole="SANPHAM" />
+  </EntityType>
+  <EntityType Name="CT_HOADON">
+    <Key>
+      <PropertyRef Name="IDHOADON" />
+      <PropertyRef Name="IDSANPHAM" />
+    </Key>
+    <Property Name="IDHOADON" Type="Int32" Nullable="false" />
+    <Property Name="IDSANPHAM" Type="Int32" Nullable="false" />
+    <Property Name="SL" Type="Int32" />
+    <Property Name="TONG" Type="Decimal" Precision="10" Scale="0" />
+    <NavigationProperty Name="HOADON" Relationship="Self.FK__CT_HOADON__IDHOA__239E4DCF" FromRole="CT_HOADON" ToRole="HOADON" />
+    <NavigationProperty Name="SANPHAM" Relationship="Self.FK__CT_HOADON__IDSAN__24927208" FromRole="CT_HOADON" ToRole="SANPHAM" />
+  </EntityType>
+  <EntityType Name="CT_PHIEUXUAT">
+    <Key>
+      <PropertyRef Name="IDSANPHAM" />
+    </Key>
+    <Property Name="IDSANPHAM" Type="Int32" Nullable="false" />
+    <Property Name="SL" Type="Int32" />
+    <Property Name="IDCTXUAT" Type="Int32" />
+    <NavigationProperty Name="PHIEUXUAT" Relationship="Self.FK__CT_PHIEUX__IDCTX__32E0915F" FromRole="CT_PHIEUXUAT" ToRole="PHIEUXUAT" />
+    <NavigationProperty Name="SANPHAM" Relationship="Self.FK__CT_PHIEUX__IDSAN__31EC6D26" FromRole="CT_PHIEUXUAT" ToRole="SANPHAM" />
+  </EntityType>
+  <EntityType Name="DONDATHANG">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NGAYDAT" Type="DateTime" Precision="3" />
+    <Property Name="IDNCC" Type="Int32" />
+    <Property Name="IDNGUOIDAT" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="SL" Type="Int32" />
+    <Property Name="TONGCONG" Type="Decimal" Precision="10" Scale="0" />
+    <NavigationProperty Name="CT_DONDATHANG" Relationship="Self.FK__CT_DONDAT__IDDON__2B3F6F97" FromRole="DONDATHANG" ToRole="CT_DONDATHANG" />
+    <NavigationProperty Name="NHACC" Relationship="Self.FK__DONDATHAN__IDNCC__276EDEB3" FromRole="DONDATHANG" ToRole="NHACC" />
+    <NavigationProperty Name="NGDUNG" Relationship="Self.FK__DONDATHAN__IDNGU__286302EC" FromRole="DONDATHANG" ToRole="NGDUNG" />
+  </EntityType>
+  <EntityType Name="HOADON">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NGAYXUAT" Type="DateTime" Precision="3" />
+    <Property Name="MAKHTT" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="THANHTIEN" Type="Decimal" Precision="10" Scale="0" />
+    <NavigationProperty Name="CT_HOADON" Relationship="Self.FK__CT_HOADON__IDHOA__239E4DCF" FromRole="HOADON" ToRole="CT_HOADON" />
+    <NavigationProperty Name="KHACHHANGTT" Relationship="Self.FK__HOADON__MAKHTT__20C1E124" FromRole="HOADON" ToRole="KHACHHANGTT" />
+  </EntityType>
+  <EntityType Name="KHACHHANGTT">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="TENKH" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="CMND" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="DIACHI" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="SDT" Type="String" MaxLength="12" FixedLength="false" Unicode="true" />
+    <Property Name="DIEMTL" Type="Int32" />
+    <NavigationProperty Name="HOADON" Relationship="Self.FK__HOADON__MAKHTT__20C1E124" FromRole="KHACHHANGTT" ToRole="HOADON" />
+  </EntityType>
+  <EntityType Name="LOAISP">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TENLOAI" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="SANPHAM" Relationship="Self.FK__SANPHAM__IDLOAIS__1DE57479" FromRole="LOAISP" ToRole="SANPHAM" />
+  </EntityType>
+  <EntityType Name="NGDUNG">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="PASSWD" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="TENNGDUNG" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NGAYSINH" Type="DateTime" Precision="3" />
+    <Property Name="SDT" Type="String" MaxLength="12" FixedLength="false" Unicode="true" />
+    <Property Name="PHANQUYEN" Type="Boolean" />
+    <NavigationProperty Name="DONDATHANG" Relationship="Self.FK__DONDATHAN__IDNGU__286302EC" FromRole="NGDUNG" ToRole="DONDATHANG" />
+    <NavigationProperty Name="PHIEUXUAT" Relationship="Self.FK__PHIEUXUAT__IDNGU__2F10007B" FromRole="NGDUNG" ToRole="PHIEUXUAT" />
+  </EntityType>
+  <EntityType Name="NHACC">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TENNCC" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="SDT" Type="String" MaxLength="13" FixedLength="false" Unicode="true" />
+    <Property Name="DIACHI" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="EMAIL" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="DONDATHANG" Relationship="Self.FK__DONDATHAN__IDNCC__276EDEB3" FromRole="NHACC" ToRole="DONDATHANG" />
+  </EntityType>
+  <EntityType Name="PHIEUXUAT">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IDNGUOIXUAT" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NGAYXUAT" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="CT_PHIEUXUAT" Relationship="Self.FK__CT_PHIEUX__IDCTX__32E0915F" FromRole="PHIEUXUAT" ToRole="CT_PHIEUXUAT" />
+    <NavigationProperty Name="NGDUNG" Relationship="Self.FK__PHIEUXUAT__IDNGU__2F10007B" FromRole="PHIEUXUAT" ToRole="NGDUNG" />
+  </EntityType>
+  <EntityType Name="SANPHAM">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TENSP" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="XUATXU" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="SLTON" Type="Int32" />
+    <Property Name="SLBAYBAN" Type="Int32" />
+    <Property Name="GIATIEN" Type="Decimal" Precision="10" Scale="0" />
+    <Property Name="IDLOAISP" Type="Int32" />
+    <Property Name="HINHANH" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="CT_DONDATHANG" Relationship="Self.FK__CT_DONDAT__IDSAN__2C3393D0" FromRole="SANPHAM" ToRole="CT_DONDATHANG" />
+    <NavigationProperty Name="CT_HOADON" Relationship="Self.FK__CT_HOADON__IDSAN__24927208" FromRole="SANPHAM" ToRole="CT_HOADON" />
+    <NavigationProperty Name="CT_PHIEUXUAT" Relationship="Self.FK__CT_PHIEUX__IDSAN__31EC6D26" FromRole="SANPHAM" ToRole="CT_PHIEUXUAT" />
+    <NavigationProperty Name="LOAISP" Relationship="Self.FK__SANPHAM__IDLOAIS__1DE57479" FromRole="SANPHAM" ToRole="LOAISP" />
+  </EntityType>
+  <Association Name="FK__CT_DONDAT__IDDON__2B3F6F97">
+    <End Role="DONDATHANG" Type="Self.DONDATHANG" Multiplicity="1" />
+    <End Role="CT_DONDATHANG" Type="Self.CT_DONDATHANG" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DONDATHANG">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="CT_DONDATHANG">
+        <PropertyRef Name="IDDONDAT" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CT_DONDAT__IDSAN__2C3393D0">
+    <End Role="SANPHAM" Type="Self.SANPHAM" Multiplicity="1" />
+    <End Role="CT_DONDATHANG" Type="Self.CT_DONDATHANG" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SANPHAM">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="CT_DONDATHANG">
+        <PropertyRef Name="IDSANPHAM" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CT_HOADON__IDHOA__239E4DCF">
+    <End Role="HOADON" Type="Self.HOADON" Multiplicity="1" />
+    <End Role="CT_HOADON" Type="Self.CT_HOADON" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HOADON">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="CT_HOADON">
+        <PropertyRef Name="IDHOADON" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CT_HOADON__IDSAN__24927208">
+    <End Role="SANPHAM" Type="Self.SANPHAM" Multiplicity="1" />
+    <End Role="CT_HOADON" Type="Self.CT_HOADON" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SANPHAM">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="CT_HOADON">
+        <PropertyRef Name="IDSANPHAM" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CT_PHIEUX__IDCTX__32E0915F">
+    <End Role="PHIEUXUAT" Type="Self.PHIEUXUAT" Multiplicity="0..1" />
+    <End Role="CT_PHIEUXUAT" Type="Self.CT_PHIEUXUAT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PHIEUXUAT">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="CT_PHIEUXUAT">
+        <PropertyRef Name="IDCTXUAT" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CT_PHIEUX__IDSAN__31EC6D26">
+    <End Role="SANPHAM" Type="Self.SANPHAM" Multiplicity="1" />
+    <End Role="CT_PHIEUXUAT" Type="Self.CT_PHIEUXUAT" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="SANPHAM">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="CT_PHIEUXUAT">
+        <PropertyRef Name="IDSANPHAM" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__DONDATHAN__IDNCC__276EDEB3">
+    <End Role="NHACC" Type="Self.NHACC" Multiplicity="0..1" />
+    <End Role="DONDATHANG" Type="Self.DONDATHANG" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NHACC">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="DONDATHANG">
+        <PropertyRef Name="IDNCC" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__DONDATHAN__IDNGU__286302EC">
+    <End Role="NGDUNG" Type="Self.NGDUNG" Multiplicity="0..1" />
+    <End Role="DONDATHANG" Type="Self.DONDATHANG" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NGDUNG">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="DONDATHANG">
+        <PropertyRef Name="IDNGUOIDAT" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__HOADON__MAKHTT__20C1E124">
+    <End Role="KHACHHANGTT" Type="Self.KHACHHANGTT" Multiplicity="0..1" />
+    <End Role="HOADON" Type="Self.HOADON" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KHACHHANGTT">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="HOADON">
+        <PropertyRef Name="MAKHTT" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__SANPHAM__IDLOAIS__1DE57479">
+    <End Role="LOAISP" Type="Self.LOAISP" Multiplicity="0..1" />
+    <End Role="SANPHAM" Type="Self.SANPHAM" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LOAISP">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="SANPHAM">
+        <PropertyRef Name="IDLOAISP" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__PHIEUXUAT__IDNGU__2F10007B">
+    <End Role="NGDUNG" Type="Self.NGDUNG" Multiplicity="0..1" />
+    <End Role="PHIEUXUAT" Type="Self.PHIEUXUAT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NGDUNG">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="PHIEUXUAT">
+        <PropertyRef Name="IDNGUOIXUAT" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ToyShopDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CT_DONDATHANG" EntityType="Self.CT_DONDATHANG" />
+    <EntitySet Name="CT_HOADON" EntityType="Self.CT_HOADON" />
+    <EntitySet Name="CT_PHIEUXUAT" EntityType="Self.CT_PHIEUXUAT" />
+    <EntitySet Name="DONDATHANG" EntityType="Self.DONDATHANG" />
+    <EntitySet Name="HOADON" EntityType="Self.HOADON" />
+    <EntitySet Name="KHACHHANGTT" EntityType="Self.KHACHHANGTT" />
+    <EntitySet Name="LOAISP" EntityType="Self.LOAISP" />
+    <EntitySet Name="NGDUNG" EntityType="Self.NGDUNG" />
+    <EntitySet Name="NHACC" EntityType="Self.NHACC" />
+    <EntitySet Name="PHIEUXUAT" EntityType="Self.PHIEUXUAT" />
+    <EntitySet Name="SANPHAM" EntityType="Self.SANPHAM" />
+    <AssociationSet Name="FK__CT_DONDAT__IDDON__2B3F6F97" Association="Self.FK__CT_DONDAT__IDDON__2B3F6F97">
+      <End Role="DONDATHANG" EntitySet="DONDATHANG" />
+      <End Role="CT_DONDATHANG" EntitySet="CT_DONDATHANG" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CT_DONDAT__IDSAN__2C3393D0" Association="Self.FK__CT_DONDAT__IDSAN__2C3393D0">
+      <End Role="SANPHAM" EntitySet="SANPHAM" />
+      <End Role="CT_DONDATHANG" EntitySet="CT_DONDATHANG" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CT_HOADON__IDHOA__239E4DCF" Association="Self.FK__CT_HOADON__IDHOA__239E4DCF">
+      <End Role="HOADON" EntitySet="HOADON" />
+      <End Role="CT_HOADON" EntitySet="CT_HOADON" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CT_HOADON__IDSAN__24927208" Association="Self.FK__CT_HOADON__IDSAN__24927208">
+      <End Role="SANPHAM" EntitySet="SANPHAM" />
+      <End Role="CT_HOADON" EntitySet="CT_HOADON" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CT_PHIEUX__IDCTX__32E0915F" Association="Self.FK__CT_PHIEUX__IDCTX__32E0915F">
+      <End Role="PHIEUXUAT" EntitySet="PHIEUXUAT" />
+      <End Role="CT_PHIEUXUAT" EntitySet="CT_PHIEUXUAT" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CT_PHIEUX__IDSAN__31EC6D26" Association="Self.FK__CT_PHIEUX__IDSAN__31EC6D26">
+      <End Role="SANPHAM" EntitySet="SANPHAM" />
+      <End Role="CT_PHIEUXUAT" EntitySet="CT_PHIEUXUAT" />
+    </AssociationSet>
+    <AssociationSet Name="FK__DONDATHAN__IDNCC__276EDEB3" Association="Self.FK__DONDATHAN__IDNCC__276EDEB3">
+      <End Role="NHACC" EntitySet="NHACC" />
+      <End Role="DONDATHANG" EntitySet="DONDATHANG" />
+    </AssociationSet>
+    <AssociationSet Name="FK__DONDATHAN__IDNGU__286302EC" Association="Self.FK__DONDATHAN__IDNGU__286302EC">
+      <End Role="NGDUNG" EntitySet="NGDUNG" />
+      <End Role="DONDATHANG" EntitySet="DONDATHANG" />
+    </AssociationSet>
+    <AssociationSet Name="FK__HOADON__MAKHTT__20C1E124" Association="Self.FK__HOADON__MAKHTT__20C1E124">
+      <End Role="KHACHHANGTT" EntitySet="KHACHHANGTT" />
+      <End Role="HOADON" EntitySet="HOADON" />
+    </AssociationSet>
+    <AssociationSet Name="FK__SANPHAM__IDLOAIS__1DE57479" Association="Self.FK__SANPHAM__IDLOAIS__1DE57479">
+      <End Role="LOAISP" EntitySet="LOAISP" />
+      <End Role="SANPHAM" EntitySet="SANPHAM" />
+    </AssociationSet>
+    <AssociationSet Name="FK__PHIEUXUAT__IDNGU__2F10007B" Association="Self.FK__PHIEUXUAT__IDNGU__2F10007B">
+      <End Role="NGDUNG" EntitySet="NGDUNG" />
+      <End Role="PHIEUXUAT" EntitySet="PHIEUXUAT" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ToyShopDBModelStoreContainer" CdmEntityContainer="ToyShopDBEntities">
+    <EntitySetMapping Name="CT_DONDATHANG">
+      <EntityTypeMapping TypeName="ToyShopDBModel.CT_DONDATHANG">
+        <MappingFragment StoreEntitySet="CT_DONDATHANG">
+          <ScalarProperty Name="IDDONDAT" ColumnName="IDDONDAT" />
+          <ScalarProperty Name="IDSANPHAM" ColumnName="IDSANPHAM" />
+          <ScalarProperty Name="SL" ColumnName="SL" />
+          <ScalarProperty Name="DONGIA" ColumnName="DONGIA" />
+          <ScalarProperty Name="TONG" ColumnName="TONG" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CT_HOADON">
+      <EntityTypeMapping TypeName="ToyShopDBModel.CT_HOADON">
+        <MappingFragment StoreEntitySet="CT_HOADON">
+          <ScalarProperty Name="IDHOADON" ColumnName="IDHOADON" />
+          <ScalarProperty Name="IDSANPHAM" ColumnName="IDSANPHAM" />
+          <ScalarProperty Name="SL" ColumnName="SL" />
+          <ScalarProperty Name="TONG" ColumnName="TONG" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CT_PHIEUXUAT">
+      <EntityTypeMapping TypeName="ToyShopDBModel.CT_PHIEUXUAT">
+        <MappingFragment StoreEntitySet="CT_PHIEUXUAT">
+          <ScalarProperty Name="IDSANPHAM" ColumnName="IDSANPHAM" />
+          <ScalarProperty Name="SL" ColumnName="SL" />
+          <ScalarProperty Name="IDCTXUAT" ColumnName="IDCTXUAT" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DONDATHANG">
+      <EntityTypeMapping TypeName="ToyShopDBModel.DONDATHANG">
+        <MappingFragment StoreEntitySet="DONDATHANG">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NGAYDAT" ColumnName="NGAYDAT" />
+          <ScalarProperty Name="IDNCC" ColumnName="IDNCC" />
+          <ScalarProperty Name="IDNGUOIDAT" ColumnName="IDNGUOIDAT" />
+          <ScalarProperty Name="SL" ColumnName="SL" />
+          <ScalarProperty Name="TONGCONG" ColumnName="TONGCONG" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HOADON">
+      <EntityTypeMapping TypeName="ToyShopDBModel.HOADON">
+        <MappingFragment StoreEntitySet="HOADON">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NGAYXUAT" ColumnName="NGAYXUAT" />
+          <ScalarProperty Name="MAKHTT" ColumnName="MAKHTT" />
+          <ScalarProperty Name="THANHTIEN" ColumnName="THANHTIEN" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KHACHHANGTT">
+      <EntityTypeMapping TypeName="ToyShopDBModel.KHACHHANGTT">
+        <MappingFragment StoreEntitySet="KHACHHANGTT">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="TENKH" ColumnName="TENKH" />
+          <ScalarProperty Name="CMND" ColumnName="CMND" />
+          <ScalarProperty Name="DIACHI" ColumnName="DIACHI" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="DIEMTL" ColumnName="DIEMTL" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LOAISP">
+      <EntityTypeMapping TypeName="ToyShopDBModel.LOAISP">
+        <MappingFragment StoreEntitySet="LOAISP">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="TENLOAI" ColumnName="TENLOAI" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NGDUNG">
+      <EntityTypeMapping TypeName="ToyShopDBModel.NGDUNG">
+        <MappingFragment StoreEntitySet="NGDUNG">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="PASSWD" ColumnName="PASSWD" />
+          <ScalarProperty Name="TENNGDUNG" ColumnName="TENNGDUNG" />
+          <ScalarProperty Name="NGAYSINH" ColumnName="NGAYSINH" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="PHANQUYEN" ColumnName="PHANQUYEN" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NHACC">
+      <EntityTypeMapping TypeName="ToyShopDBModel.NHACC">
+        <MappingFragment StoreEntitySet="NHACC">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="TENNCC" ColumnName="TENNCC" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="DIACHI" ColumnName="DIACHI" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PHIEUXUAT">
+      <EntityTypeMapping TypeName="ToyShopDBModel.PHIEUXUAT">
+        <MappingFragment StoreEntitySet="PHIEUXUAT">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="IDNGUOIXUAT" ColumnName="IDNGUOIXUAT" />
+          <ScalarProperty Name="NGAYXUAT" ColumnName="NGAYXUAT" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SANPHAM">
+      <EntityTypeMapping TypeName="ToyShopDBModel.SANPHAM">
+        <MappingFragment StoreEntitySet="SANPHAM">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="TENSP" ColumnName="TENSP" />
+          <ScalarProperty Name="XUATXU" ColumnName="XUATXU" />
+          <ScalarProperty Name="SLTON" ColumnName="SLTON" />
+          <ScalarProperty Name="SLBAYBAN" ColumnName="SLBAYBAN" />
+          <ScalarProperty Name="GIATIEN" ColumnName="GIATIEN" />
+          <ScalarProperty Name="IDLOAISP" ColumnName="IDLOAISP" />
+          <ScalarProperty Name="HINHANH" ColumnName="HINHANH" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
